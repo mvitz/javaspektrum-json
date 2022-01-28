@@ -3,14 +3,15 @@
 **Java JSON Examples**
 
 These examples were written for my german [JavaSPEKTRUM](http://www.javaspektrum.de/)
-article "Der Praktiker: ???".
+article "Der Praktiker: EinE instieg in vier JSON-Bibliotheken für Java - JSON
+in Java verarbeiten".
 
 
 ## License
 
 The MIT License (MIT)
 
-Copyright (c) 2021 Michael Vitz
+Copyright (c) 2022 Michael Vitz
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
