@@ -3,7 +3,7 @@
 **Java JSON Examples**
 
 These examples were written for my german [JavaSPEKTRUM](http://www.javaspektrum.de/)
-article "Der Praktiker: EinE instieg in vier JSON-Bibliotheken für Java - JSON
+article "Der Praktiker: Ein Einstieg in vier JSON-Bibliotheken für Java - JSON
 in Java verarbeiten".
 
 
