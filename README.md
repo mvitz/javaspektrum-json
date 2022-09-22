@@ -6,6 +6,15 @@ These examples were written for my german [JavaSPEKTRUM](http://www.javaspektrum
 article "Der Praktiker: Ein Einstieg in vier JSON-Bibliotheken für Java - JSON
 in Java verarbeiten".
 
+You can read it online
+[here](https://www.innoq.com/de/articles/2022/02/java-json/)
+or download as PDF
+[here](http://www.sigs.de/publications/download/Artikel/vitz_JS_01_22_klxy.pdf).
+
+This article was translated into english as "Processing JSON in Java - An
+Introduction to 4 JSON Libraries for Java" and can be read
+[here](https://www.innoq.com/en/articles/2022/02/java-json/).
+
 
 ## License
 
